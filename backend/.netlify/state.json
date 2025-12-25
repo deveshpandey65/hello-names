@@ -1,0 +1,21 @@
+{
+	"siteId": "bf370f2a-16bd-49bf-a4d2-6eaf348c80e7",
+	"geolocation": {
+		"data": {
+			"city": "Prayagraj",
+			"country": {
+				"code": "IN",
+				"name": "India"
+			},
+			"subdivision": {
+				"code": "UP",
+				"name": "Uttar Pradesh"
+			},
+			"timezone": "Asia/Kolkata",
+			"latitude": 25.4425,
+			"longitude": 81.8517,
+			"postalCode": "211008"
+		},
+		"timestamp": 1766673713852
+	}
+}
